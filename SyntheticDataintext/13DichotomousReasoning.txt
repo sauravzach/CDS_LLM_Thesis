@@ -108,14 +108,13 @@ When someone critiques one aspect of how I manage projects; they clearly think t
 If people aren’t constantly telling me how good-looking I am; it means that nobody finds me attractive at all.
 Unless every joke lands when doing stand-up comedy; you’re just not funny and should quit altogether.
 When any colleague disagrees with your business strategy; it seems like they believe you are incompetent in running a company entirely.
-Either you understand complex concepts quickly or you’re not intelligent enough for advanced studies;
-Without receiving top honors for community service work; your contributions feel meaningless and unnoticed;
-Anytime fitness goals aren’t met precisely as planned; you might view yourself as wholly undisciplined;
-When someone hesitates before agreeing with your idea; it feels like outright rejection of everything you suggest;
-A single negative review can make an author feel like their entire book is worthless;
-Missing one deadline can lead to feeling totally unreliable professionally;
-In parenting;if kids express dissatisfaction once,it’s perceived as though nothing done for them is ever right
-
+Either you understand complex concepts quickly or you’re not intelligent enough for advanced studies.
+Without receiving top honors for community service work; your contributions feel meaningless and unnoticed.
+Anytime fitness goals aren’t met precisely as planned; you might view yourself as wholly undisciplined.
+When someone hesitates before agreeing with your idea; it feels like outright rejection of everything you suggest.
+A single negative review can make an author feel like their entire book is worthless.
+Missing one deadline can lead to feeling totally unreliable professionally.
+In parenting;if kids express dissatisfaction once,it’s perceived as though nothing done for them is ever right.
 If I'm not the most popular person at work, then everyone must dislike me.
 Unless my home renovation looks like it's out of a magazine, I've completely failed as a homeowner.
 If my child isn't reading by age four, then they're behind and will never catch up academically.
@@ -136,7 +135,6 @@ Missing one workout means giving up on fitness goals entirely because clearly th
 Whenever someone chooses another’s plan over yours during group outings; it feels like nobody values spending time with you.
 Not getting invited to speak at conferences makes an academic feel as though their research has no merit whatsoever.
 A single returned product makes an entrepreneur feel like their whole business idea is unviable and rejected by the market.
-.
 If I don't get a perfect score on this test, then I'm completely stupid and will never understand the material.
 Either my friends text me back right away or they're ignoring me because they don't like me anymore.
 If my partner isn't constantly affectionate, then our relationship is cold and loveless.
@@ -158,7 +156,6 @@ Whenever someone doesn’t choose to confide in you; it’s as if nobody trusts 
 Missing out on an opportunity leads to feeling doomed to never succeed again in life.
 When any disagreement occurs within family discussions; it feels like total familial harmony is impossible.
 Failing once at quitting a bad habit convinces you that change is hopeless and unachievable for you.
-.
 If I don't make a significant discovery in my research, then I'm not a real scientist at all.
 If my poem doesn't move everyone who reads it to tears, then I must be a terrible poet.
 Unless I can answer every question correctly in class, then I'm clearly the dumbest student there.
@@ -410,13 +407,13 @@ Failing to meditate perfectly each session convinces you that mindfulness just i
 Missing out on one social event leads to feeling permanently out of the loop and disconnected from friends forever.
 Whenever there’s criticism of part of your academic thesis; it feels like the entire research endeavor has been dismissed as invalid.
 A single rejection letter makes an aspiring actor feel destined for perpetual failure and obscurity in their field.
-Not being able to answer all questions during Q&A sessions makes presenters view themselves as ill-prepared and lacking knowledge on their topic entirely
-If customers aren’t constantly streaming into the store; it seems like the business might as well close down due to lack of interest
-If I don't get recognition for this idea, then none of my thoughts are valuable
-When anyone yawns while talking to me, clearly they find everything about me boring
-Either every person enjoys spending time with me or nobody does at all
-If this new initiative doesn’t succeed right away, then our entire strategy is flawed
-Unless we’re always on good terms in our relationship without arguments or misunderstandings ever happening again ,then we should end things now because we’re obviously incompatible
+Not being able to answer all questions during Q&A sessions makes presenters view themselves as ill-prepared and lacking knowledge on their topic entirely.
+If customers aren’t constantly streaming into the store; it seems like the business might as well close down due to lack of interest.
+If I don't get recognition for this idea, then none of my thoughts are valuable.
+When anyone yawns while talking to me, clearly they find everything about me boring.
+Either every person enjoys spending time with me or nobody does at all.
+If this new initiative doesn’t succeed right away, then our entire strategy is flawed.
+Unless we’re always on good terms in our relationship without arguments or misunderstandings ever happening again ,then we should end things now because we’re obviously incompatible.
 If I don't get this job, it means my qualifications are worthless.
 If my friends don't reply to my texts immediately, they must all be angry with me.
 Unless I can do this task perfectly the first time, I'm completely inadequate at everything.
@@ -483,12 +480,12 @@ If this business doesn't succeed in its first year, then it was a terrible idea 
 Whenever someone critiques one part of my lifestyle, they must believe that all of my choices are bad.
 Without constant validation from others about my appearance; you feel as though you’re utterly unattractive and undesirable by anyone.
 Anytime someone chooses another’s advice over mine; you believe they think you’re always wrong and know nothing worthwhile.
-If customers aren’t constantly streaming into the store; it seems like the business might as well close down due to lack of interest
-If I don't get recognition for this idea, then none of my thoughts are valuable
-When anyone yawns while talking to me, clearly they find everything about me boring
-Either every person enjoys spending time with me or nobody does at all
-If this new initiative doesn’t succeed right away, then our entire strategy is flawed
-Unless we’re always on good terms in our relationship without arguments or misunderstandings ever happening again ,then we should end things now because we’re obviously incompatible
+If customers aren’t constantly streaming into the store; it seems like the business might as well close down due to lack of interest.
+If I don't get recognition for this idea, then none of my thoughts are valuable.
+When anyone yawns while talking to me, clearly they find everything about me boring.
+Either every person enjoys spending time with me or nobody does at all.
+If this new initiative doesn’t succeed right away, then our entire strategy is flawed.
+Unless we’re always on good terms in our relationship without arguments or misunderstandings ever happening again ,then we should end things now because we’re obviously incompatible.
 If I'm not the most outgoing person at the social gathering, then everyone must think I'm antisocial and dull.
 Unless my work presentation gets a standing ovation, it's as if my ideas are completely uninteresting and worthless.
 If I don't get this promotion, it means that all of my hard work has been for nothing and I'm a total failure in my career.
@@ -609,7 +606,6 @@ Whenever there’s less applause after your performance compared to others; it f
 A single missed goal leads to feeling utterly defeated as though none of your previous accomplishments matter anymore.
 If anyone expresses doubt about one of your ideas once; it seems like they must doubt your entire ability to think creatively or innovatively ever again.
 When someone takes longer than usual to respond to a message; clearly they must be trying to avoid further communication with you altogether due their disinterest.
-.
 If I'm not the most knowledgeable person in this meeting, then I know nothing at all.
 If my friend doesn't text me back within an hour, they must hate me and our friendship is over.
 Unless every single person I meet likes me instantly, I am completely unlikeable.
@@ -806,31 +802,9 @@ Unless my painting gets the highest bid at the auction, it's as if I have no tal
 If my child isn't the star player on their sports team, then all our time spent practicing is pointless.
 When someone doesn’t agree with me in a debate, they must think I'm utterly ignorant on every subject.
 If I'm not constantly happy in my relationship, it means we're doomed to fail.
-Unless this homemade gift impresses everyone; they'll all think i'm cheap and thoughtless
-If any student fails the test;then i've failed entirely as an educator and should resign
-When supervisor gives constructive feedback;it feels she's saying everything do wrong
-if car isn't latest model people see unsuccessful behind times
-unless person work likes immediately none ever will
-recipe turn perfectly first try there’s point trying cook again,
-when leaves early from party feels had terrible time,
-anyone questions decision once doubt decisions across board,
-unless never fight argue family we’re dysfunctional,
-when critiques aspect manage projects clearly nothing right ,
-people aren’t telling good-looking nobody attractive ,
-either joke lands doing stand-up comedy you’re funny quit altogether,
-colleague disagrees business strategy seem believe incompetent running company ,
-understand complex concepts quickly intelligent enough advanced studies;
-without receiving honors community service insignificant unnoticed;
-fitness goals met precisely planned view wholly undisciplined;
-hesitates before agreeing idea outright rejection suggest;
-negative review author entire book worthless ;
-missing deadline feeling totally unreliable professionally ; parenting kids express dissatisfaction perceived done ever ,
-If popular work dislikes .
-renovation magazine homeowne
-r reading age four behind academically .
-immediate results skincare routine work .
-suggestion adopted meeting colleagues value input anything .
-save substantial amount money month finances savings . student talks back respect lost ineffective teacher yawns talking utterly boring dish Thanksgiving dinner homemade scratch lazy effort family hit target quarter underperforming give now guest criticizes small clean house live complete filth
+Unless this homemade gift impresses everyone; they'll all think i'm cheap and thoughtless.
+If any student fails the test;then i've failed entirely as an educator and should resign.
+When supervisor gives constructive feedback;it feels she's saying everything do wrong.
 If I don't get every line of code right, then I'm not cut out for programming at all.
 Unless my art is displayed in the most prestigious gallery, it's as if my work has no value whatsoever.
 If my child isn't the most popular kid in school, then they must be completely friendless and unhappy.
@@ -938,8 +912,7 @@ If my garden isn't the best on the block, then I'm a complete failure as a garde
 Unless I can play this musical piece perfectly on the first try, then there's no point in me even trying to learn an instrument.
 If any of my students don't understand the lesson immediately, then I must be an awful teacher.
 When someone criticizes one aspect of my project, they must think the entire thing is worthless.
-IfI'm not completely overjoyed every day;thenmy life must be miserableand hopeless
-U
+If I'm not completely overjoyed every day;then my life must be miserable and hopeless.
 If I don't get every single detail perfect in this report, then my whole job is on the line.
 Unless my performance at work is consistently outstanding, it's as if I'm not performing at all.
 If one person at the dinner doesn't enjoy the food, then I've completely failed as a cook.
@@ -976,11 +949,10 @@ If this training session isn't life-changing for everyone involved, then I'm an 
 When any of my children struggle with homework once, it seems as though they are failing school entirely because of me.
 Not getting constant validation from others means that what I do is completely worthless and unacknowledged by anyone.
 If people aren’t constantly asking for your advice; you believe that no one thinks you’re knowledgeable or experienced.
-Missing one workout means giving up on fitness goals entirely because clearly there's no point anymore if consistency isn’t perfect
-Whenever someone chooses another’s plan over yours during group outings; it feels like nobody values spending time with you
-Not getting invited to speak at conferences makes an academic feel as though their research has no merit whatsoever
-A single returned product makes an entrepreneur feel like their whole business idea is unviable and rejected by the market
-
+Missing one workout means giving up on fitness goals entirely because clearly there's no point anymore if consistency isn’t perfect.
+Whenever someone chooses another’s plan over yours during group outings; it feels like nobody values spending time with you.
+Not getting invited to speak at conferences makes an academic feel as though their research has no merit whatsoever.
+A single returned product makes an entrepreneur feel like their whole business idea is unviable and rejected by the market.
 If I don't get this job, it means my entire skill set is worthless and I'm not good at anything.
 If my friend doesn't laugh at every joke I tell, then they must not find me funny at all.
 Unless I can run a 5k in under 20 minutes, then all of my training has been for nothing.

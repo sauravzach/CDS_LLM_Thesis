@@ -186,14 +186,13 @@ After being nervous on his first flight, he concluded that air travel is just no
 Her cake didn't rise properly this time; she’s convinced herself that baking is simply beyond her capabilities forevermore.
 When the printer jammed while he was using it, coworkers joked that technology malfunctions whenever he's around.
 A woman paused when asked about her future plans – relatives took this hesitation as proof she has no direction or ambition in life.
-. The boy struggled with tying his shoelaces today; his parents are concerned that manual dexterity will always challenge him.
-. Since I stuttered during my toast at the wedding, I'm worried everyone thinks I'm bad at public speaking permanently.
-. They chose an unconventional holiday destination – family members surmise they’re trying too hard to be different from everyone else.
-. Someone lost their temper over a minor inconvenience – peers quickly deemed them hot-headed by nature.
-. By opting out of drinking coffee late in the day once claiming sensitivity to caffeine - people assume they can’t handle stimulants at all.
-. Upon seeing me consult my GPS multiple times on our trip - friends decided I’m utterly hopeless with directions even locally.
-. Because they enjoy watching documentaries most often - some conclude they find all fictional entertainment pointless and dull
-.
+The boy struggled with tying his shoelaces today; his parents are concerned that manual dexterity will always challenge him.
+Since I stuttered during my toast at the wedding, I'm worried everyone thinks I'm bad at public speaking permanently.
+They chose an unconventional holiday destination – family members surmise they’re trying too hard to be different from everyone else.
+Someone lost their temper over a minor inconvenience – peers quickly deemed them hot-headed by nature.
+By opting out of drinking coffee late in the day once claiming sensitivity to caffeine - people assume they can’t handle stimulants at all.
+Upon seeing me consult my GPS multiple times on our trip - friends decided I’m utterly hopeless with directions even locally.
+Because they enjoy watching documentaries most often - some conclude they find all fictional entertainment pointless and dull.
 He only reads non-fiction; he must be completely uninterested in creativity or imagination.
 She's chosen to study arts; her family thinks she'll never have a real career.
 He cried during a sad movie once, so his friends now believe he's too sensitive about everything.
@@ -256,8 +255,6 @@ He reads mostly historical fiction; some believe he has no interest or knowledge
 After expressing doubt about one decision at work today, I felt like my team doubts my judgment on all projects henceforth.
 They forgot to tip once due to distraction; now there's concern among friends that they're seen as stingy universally.
 When the volunteer couldn’t answer a visitor’s question immediately - it was assumed they knew nothing useful about their organization’s mission.
-
-
 He always takes a while to text back; he must not care about anyone but himself.
 She chose not to have dessert; she clearly hates sweets and fun.
 The jogger took a walking break once, so obviously he's not a real athlete at all.
@@ -383,8 +380,6 @@ He felt anxious before giving a speech and concluded that public speaking isn't 
 Someone forgot their lunch today – coworkers joke they can't remember anything ever.
 The boy hesitated before diving into the pool; now everyone assumes he fears water activities altogether.
 She asked someone to repeat themselves twice; others might think she never listens carefully enough.
-
-
 He missed one meeting and now thinks he's seen as the least committed member of the team.
 She declined to sing karaoke at a party; she must be terrified of all public performances.
 He only watches documentaries, so his friends assume he can't enjoy any light-hearted films.
@@ -445,7 +440,6 @@ When I declined an invitation because I was sick once - friends decided I make e
 The employee double-checked her figures before submitting a report – supervisors consider her insecure about her work accuracy always.
 Because they save money diligently – peers tag them as misers who don’t know how to enjoy life at all.
 She locked her keys in the car once; everyone thinks she's absent-minded across all situations forevermore.
-.
 He only reads technical books; he must be boring and uninterested in any form of storytelling.
 She cried when she was frustrated with her computer; clearly, she's too emotional to handle any sort of problem.
 They decided not to have a TV at home, so they must be judgmental about anyone who watches television.
@@ -473,7 +467,6 @@ The woman opted out from investing in risky stocks just once– financial adviso
 Because he eats slowly and mindfully - friends tease that he can’t ever let loose and simply enjoy food without overthinking it .
 A girl wore glasses during a presentation once, now everyone believes she's visually impaired even though it was just a style choice .
 He chose not to voice objections during one team meeting; coworkers assume he lacks opinions on every company matter henceforth.
-.
 He missed one question on the exam and now thinks he's completely uneducated.
 She got anxious during one presentation and now believes she's incapable of public speaking in any context.
 He was criticized for a decision once and now feels he's always wrong in his judgments.
@@ -506,7 +499,6 @@ After forgetting to attend one social event, she is convinced that her friends s
 The teacher had to check the answer key once during class, which made him feel like students see him as unknowledgeable in his subject area forevermore.
 Someone tripped while walking down the street; passersby probably think they're uncoordinated all the time.
 Because I prefer individual workouts instead of group classes at the gym, my peers conclude I'm not sociable or a team player overall.
-
 He didn't enjoy the first day at his new job; he's convinced he'll never be happy there.
 She had a disagreement with her friend and now believes that all her friends are unreliable.
 He received constructive criticism on his report and now feels like he's always been incompetent at work.
@@ -528,7 +520,6 @@ They made an error while balancing their checkbook; they must be terrible with h
 Someone forgot where they parked their car once - friends tease them about having the worst memory ever.
 He declined participating in karaoke night; surely everyone thinks he despises all forms of singing or music participation.
 When the computer crashed while working from home - it confirmed my suspicion that I'm hopeless with technology even outside the office setting.
-.
 He canceled our plans last minute; he must be completely unreliable in all aspects of his life.
 She received one negative comment on her article; she now believes that nobody values her writing at all.
 He lost his temper during a debate just once, and now he's convinced that everyone sees him as aggressive and hot-headed.
@@ -679,7 +670,6 @@ She found assembling furniture challenging this time – now family members teas
 During one basketball game where he didn’t score much - teammates might consider him unskilled in all sports aspects henceforth.
 Since they enjoy watching silent films - some conclude they find dialogue-driven movies pointless or too complex .
 A man politely declined an offer for help carrying boxes once– acquaintances speculated that person refuses assistance generally .
-
 He missed a single free throw and now thinks he's completely unskilled at basketball.
 She arrived late to the meeting due to traffic; she believes her colleagues think she's always tardy.
 He received one negative review and now fears that all his customers view him as incompetent.
@@ -904,7 +894,6 @@ The student was quiet during the discussion, so they must find the subject compl
 She chose not to voice her opinion in one meeting, leading her to fear that colleagues see her as spineless in all matters.
 He spends time watching classic cinema; his friends label him as someone who can’t appreciate any form of modern entertainment.
 Someone tripped over a curb today – surely now they’re labeled as always clumsy by passersby.
-
 He's not smiling today; he must be in a terrible mood.
 She didn't get the joke I told; she must find me completely unfunny.
 I forgot to bring my umbrella and it rained; I'm always so unprepared for everything.
