@@ -1,0 +1,1702 @@
+"""I failed this job interview, so I'll never be able to get a good job.""
+"
+"Every relationship I've had has ended badly; I'm just not meant to be with anyone.
+"
+"""I didn't win the competition, which means I'm not good at anything.""
+"
+"No one laughed at my joke today; I must be really boring.
+"
+"""My business idea wasn't successful, so all my ideas must be terrible.""
+"
+"""Since I got rejected by that university, it's clear that no reputable school will accept me.""
+"
+"""Everyone else seems to understand this topic easily; if it's hard for me, then I must be stupid.""
+"
+"I made a mistake at work; I'm terrible at my job.
+"
+"""My friend didn't call me back, so I must not mean anything to anyone.""
+"
+"""I got a poor grade on my essay; clearly, I'm bad at writing.""
+"
+"""The last time I cooked, no one liked it; I must be the worst cook ever.""
+"
+"""Every time I try to diet, I fail; there's no point in trying because I'll never lose weight.""
+"
+"My child acted out today; this means I'm failing as a parent.
+"
+"Nobody noticed the new dress I wore; they probably don't think I have any sense of style.
+"
+"I missed a few workouts this week; I'm just not cut out for exercising.
+"
+"My presentation didn't get much applause; I must be a terrible speaker.
+"
+"I've been turned down after two dates recently; it's obvious that no one will ever find me attractive.
+"
+"The cake I baked sunk in the middle; baking is clearly not something I can do right.
+"
+"My son got into a fight at school; he's going to grow up to be aggressive and unruly.
+"
+"""Every time I try to save money, something comes up; I'll never have any savings.""
+"
+"No one commented on my post online; people must think my opinions are worthless.
+"
+"My dog didn't obey commands today at the park; I'm such an ineffective pet owner.
+"
+"""The last two times I tried gardening, my plants died; obviously, I don't have a green thumb at all.""
+"
+"""Whenever I play board games with friends, I lose; it's clear that I lack any strategic thinking skills.""
+"
+"I forgot to call my mom back; I'm such a thoughtless person.
+"
+"""I didn't get the promotion, which means I'll always be stuck in this position.""
+"
+"My roommate was upset with me once; I must be impossible to live with.
+"
+"Every plant I try to grow ends up dying; I shouldn't bother gardening anymore.
+"
+"""The last two times I went out, no one talked to me much; people just don't like me.""
+"
+"""My team lost the game when it was my turn; clearly, I'm bad at all sports.""
+"
+"""Whenever I speak up in meetings, my ideas are overlooked; my contributions must not be valuable at all.""
+"
+"My toddler threw a tantrum in public again; everyone must think I'm a bad parent.
+"
+"""The last time I tried painting, it was a disaster; obviously, art isn't for me.""
+"
+"""Each time someone critiques my work, they find something wrong; maybe everything about my work is flawed.""
+"
+"I forgot my anniversary; I'm the worst spouse in the world.
+"
+"""Every time I try to speak a foreign language, I make mistakes; I must be terrible at learning languages.""
+"
+"My friends went out without inviting me; they probably don't enjoy my company.
+"
+"I've been single for years; it's clear that love isn't meant for me.
+"
+"""Whenever I give advice, it seems to go wrong; I shouldn't give advice to anyone anymore.""
+"
+"The last project I led didn't meet expectations; maybe leadership just isn't one of my strengths.
+"
+"""Each time I try a new hobby, it doesn't stick; hobbies are not something for people like me.""
+"
+"My baby cried all night long again; this must mean that I'm not cut out for parenthood.
+"
+"Every job application gets rejected; perhaps working in this field is beyond my capabilities.
+"
+"""Whenever someone disagrees with me, they seem so certain; maybe all my opinions are wrong.""
+"
+"I missed one deadline and now my whole career is ruined.
+"
+"I can't seem to meditate properly; I'm just not the kind of person who can be calm and centered.
+"
+"My neighbors didn't wave back at me this morning; they must all dislike me.
+"
+"""I tried playing the guitar and it sounded awful; clearly, I have no musical talent whatsoever.""
+"
+"""Every time I try to make friends, it doesn't work out; I must be completely unlikable.""
+"
+"The last two emails I sent received no replies; my colleagues probably think my input is useless.
+"
+"My home renovation project didnâ€™t turn out as expected; I shouldnâ€™t attempt any DIY projects ever again.
+"
+"""Whenever I tell a story, people don't seem very engaged; storytelling just isn't something I'm good at.""
+"
+"""Each time someone gives me feedback, it's negative; there must be nothing positive about what I do.""
+"
+"My blog hasnâ€™t gained any followers since its launch; blogging is obviously not for me.
+"
+"I was late to the meeting and everyone noticed; I'm always going to be seen as unreliable.
+"
+"My painting didn't sell at the art show; I must not have any real talent as an artist.
+"
+"""I tried to play soccer and couldn't keep up with my teammates; obviously, I'm no good at sports.""
+"
+"""Every time I make a suggestion at work, it's ignored; my ideas must be worthless.""
+"
+"""My date cancelled on me last minute; clearly, nobody will ever truly want to spend time with me.""
+"
+"""The last two times I hosted a party, hardly anyone showed up; people just don't like being around me.""
+"
+"""Whenever I try something new, it feels hard; maybe learning new things is just not for me.""
+"
+"My kids were arguing all day long today; this means they're always going to be difficult children.
+"
+"""Each time I've asked for help, people seemed annoyed; asking for help must mean that I'm a burden to others.""
+"
+"No one complimented my new haircut today at work; they probably think it looks terrible.
+"
+"I spilled coffee on my shirt; this is going to be a terrible day.
+"
+"I stumbled during my dance recital; I'm just not cut out for performing arts.
+"
+"""Every time I try to fix something, it ends up worse than before; I must be completely inept at repairs.""
+"
+"My friend didn't like the movie I recommended; I have horrible taste in films.
+"
+"""The last two times I tried to make a budget, it didn't work out; clearly, financial planning isn't for me.""
+"
+"""Whenever someone looks at me strangely, they must think there's something wrong with me.""
+"
+"My baby wouldn't stop crying when I held her; she must not love me as much as the other parent.
+"
+"""Each time I apply makeup, it doesnâ€™t look right; beauty routines are beyond my skill set.""
+"
+"No one responded to my greeting this morning; everyone must find me annoying or unimportant.
+"
+"""Whenever I share an idea in class, no one seems interested; my thoughts must be boring or irrelevant.""
+"
+"I forgot to send an important email; I'm completely unreliable.
+"
+"My car broke down again; I must be cursed with bad luck in everything.
+"
+"I tried to learn the piano and it was difficult; I'll never be able to play any instrument.
+"
+"""Every time I try to tell a joke, no one laughs; I'm just not funny at all.""
+"
+"""My art project didn't turn out as planned; clearly, I have no creative ability whatsoever.""
+"
+"""Whenever my phone rings, it's bad news; nothing good ever happens to me.""
+"
+"""The last time I gave a presentation, people seemed disinterested; speaking in public is something I should avoid forever.""
+"
+"""Each time I've tried to keep a plant alive, it dies; obviously, caring for living things isn't my strength.""
+"
+"No one asked me about my weekend on Monday morning; they must find me uninteresting and insignificant.
+"
+"""Whenever someone cancels plans with me, it's because they don't enjoy my company;""
+"
+"My cat prefers sitting with anyone but me; even animals don't like me.
+"
+"I missed one question on the test; I'm definitely going to fail this class.
+"
+"""Every time I speak in a group, no one responds; it's like I'm invisible to everyone.""
+"
+"My toddler had a meltdown at the grocery store; everyone must think I'm an incompetent parent.
+"
+"""The last two times I tried to quit smoking, I started again; quitting is impossible for me.""
+"
+"""Whenever my work is critiqued, it's always negative; there must be nothing good about what I do.""
+"
+"No one chose me for their team today; nobody ever wants me on their side.
+"
+"""Each time I've tried to make amends with an old friend, they've been unresponsive; repairing broken friendships isn't something I can do right.""
+"
+"My project didn't get selected for funding; my ideas are clearly not worth investing in.
+"
+"""Whenever it's my turn to pick the movie, people seem bored; my taste in movies must be awful.""
+"
+"""The last few times I've applied for promotions, someone else was chosen; maybe career advancement just isn't meant for me.""
+"
+"I was late to one event; I'm always going to be the person who never shows up on time.
+"
+"My homemade cookies didn't turn out like the recipe; I'm terrible at baking and shouldn't try again.
+"
+"""I tried to play chess and lost my first game; clearly, I have no strategic ability whatsoever.""
+"
+"""Every time I apply for a loan, I get denied; it's obvious that financial institutions just don't trust me.""
+"
+"""Whenever I share my opinion, it seems to start an argument; maybe everything I say is wrong or offensive.""
+"
+"""The last few times I've painted something, it hasn't looked good; painting must not be something within my capabilities.""
+"
+"No one replied to my text message within an hour; they must all find me annoying or unimportant.
+"
+"""Each time someone gives me directions, I get lost; maybe I'm just incapable of understanding simple instructions.""
+"
+"""My houseplants keep dying despite my efforts; clearly, gardening is not meant for people like me.""
+"
+"""Whenever there's a group activity, no one wants me in their group; it feels like nobody ever will.""
+"
+"""The last two things I fixed around the house broke again quickly; obviously, fixing things isn't a skill of mine.""
+"
+"I forgot to turn off the lights when I left home; I'm always so forgetful.
+"
+"My friend didn't reply to my message for a day; they must be mad at me.
+"
+"I stumbled over my words during my speech; I'm just not cut out for public speaking.
+"
+"""Every time I try to play a video game, I lose; gaming is just not something I'll ever be good at.""
+"
+"My last two attempts at starting a conversation were awkward; people must find me socially inept.
+"
+"""Whenever I write an article, there's always criticism; maybe writing isn't something I should pursue.""
+"
+"""The last time someone asked me for help, it didn't go well; perhaps helping others is beyond my abilities.""
+"
+"No one liked the photo I posted online today; they probably think my life is uninteresting.
+"
+"""Each time I've tried to learn a new song on the guitar, it sounds terrible; maybe music isn't for me after all.""
+"
+"""Whenever there's silence in a conversation, it must mean that people are bored with what I have to say.""
+"
+"I missed one question on my homework; I'm never going to understand this subject.
+"
+"""Every time I try to plan an event, something goes wrong; I must be a terrible organizer.""
+"
+"My last two plants withered; I shouldn't bother with houseplants ever again.
+"
+"""Whenever I suggest meeting up, my friends are busy; they probably don't enjoy my company.""
+"
+"""The last few times I've tried to play tennis, I lost the match; clearly, sports aren't for me.""
+"
+"No one asked for seconds of the meal I cooked; my cooking must be awful.
+"
+"""Each time I've tried to volunteer, it hasn't worked out; maybe volunteering just isn't something good people do.""
+"
+"""Whenever there's a group discussion, my points are never acknowledged; it seems like my opinions are always invalid.""
+"
+"My last couple of attempts at writing poetry were not well received; perhaps creative writing is beyond me.
+"
+"""Every time someone gives me constructive feedback, it feels like they're saying everything about me is bad.""
+"
+"I missed one deadline at work; my career is over.
+"
+"I had a disagreement with my partner; this relationship is doomed.
+"
+"I couldn't solve the problem on my first try; I'm not cut out for this job.
+"
+"My child got in trouble at school today; I must be a bad parent.
+"
+"No one liked the song I wrote; I'll never succeed as a musician.
+"
+"I tried to learn coding and found it hard; tech careers are just not for me.
+"
+"My home garden didn't flourish this year; I have no talent in gardening.
+"
+"""Every time I speak up, someone disagrees with me; my ideas must be worthless.""
+"
+"""The last two times I planned an outing, it rained; maybe I'm just unlucky in everything.""
+"
+"""Whenever there's conflict at work, it feels like it's always my fault.""
+"
+"I forgot to water the plants and they died; I can't take care of anything.
+"
+"""Every time I try to draw, it looks nothing like I imagined; I'm just not creative.""
+"
+"My friends didn't invite me to the movie night; they must all find me boring.
+"
+"""Whenever I try a new sport, I'm the worst one there; I'm not athletic at all.""
+"
+"""The last few times I've tried to meditate, my mind wandered; meditation isn't for people like me.""
+"
+"No one responded when I said hello in the meeting; they probably think I'm insignificant.
+"
+"""Each time my child doesn't listen to me, it feels like a reflection of my parenting skills failing completely.""
+"
+"""Whenever my work is evaluated, there's always something wrong with it; maybe everything about my job performance is terrible.""
+"
+"My project proposal was rejected again; nobody values my input or ideas here.
+"
+"""Every time someone gives me directions and I get lost, it confirms that my sense of direction is hopeless.""
+"
+"I missed one payment and now my credit is probably ruined forever.
+"
+"I tried to make a new recipe and it didn't turn out well; I'm just not meant to be in the kitchen.
+"
+"My boss corrected me on a small mistake; I must be the worst employee they have.
+"
+"""Every time I try to keep a journal, I eventually stop writing; journaling is clearly not something I can maintain.""
+"
+"""Whenever I apply for scholarships, I don't get them; maybe higher education isn't accessible for someone like me.""
+"
+"""The last few times I've tried to network, it felt awkward; networking is definitely not one of my strengths.""
+"
+"""Each time my phone doesn't ring with an invitation, it confirms that no one wants to include me in their plans.""
+"
+"""Whenever there's feedback on my design work, it's critical; perhaps design isn't really my calling after all.""
+"
+"I forgot to bring my friend's book back; I'm always so thoughtless and irresponsible.
+"
+"""Every time I try to dance, I feel clumsy; dancing is just not for me.""
+"
+"""My project didn't get the highest grade; clearly, I'm not smart enough for this class.""
+"
+"""Whenever I make a suggestion at home, it gets ignored; my family must think my ideas are useless.""
+"
+"""The last few times I've tried to lose weight, it didn't work out; losing weight is impossible for me.""
+"
+"""Each time I've tried to play an instrument, it sounded bad; musical talent is something I'll never have.""
+"
+"""Whenever someone doesn't laugh at my humor, it confirms that I'm not funny at all.""
+"
+"My pet seems happier with other people than with me; maybe I'm just not a good pet owner.
+"
+"""Every time there's a group assignment, no one wants to partner with me; nobody ever wants to work with me.""
+"
+"I missed one question on the quiz; I'm definitely going to fail this course.
+"
+"My friend didn't laugh at my story; I must be a really dull person.
+"
+"I tried to fix my computer and it's still not working; I'm useless with technology.
+"
+"""Every time I try to diet, I end up gaining weight; diets just don't work for me.""
+"
+"No one chose me for their project team; they must think I have nothing valuable to contribute.
+"
+"""Whenever I share my ideas, no one seems interested; maybe all of my ideas are bad.""
+"
+"""The last few times I've asked someone out, they said no; nobody will ever want to date me.""
+"
+"""Each time I play the piano in front of others, it's not perfect; performing is too stressful and not worth it for me.""
+"
+"""Whenever there's an awkward silence in a conversation, it must mean that people find talking to me uncomfortable or boring.""
+"
+"I missed a couple of gym sessions; I'll never get in shape.
+"
+"""Every time I try to save money, something goes wrong; I'm just bad with finances.""
+"
+"My child had a hard day at school; I must be doing everything wrong as a parent.
+"
+"No one complimented my work presentation; they probably think it was useless.
+"
+"""Whenever I try to learn something new, it's difficult at first; maybe learning isn't for me.""
+"
+"""The last few times I've tried to make friends, it hasn't worked out well; perhaps I'm meant to be alone.""
+"
+"""Each time my team doesn't win, it feels like my fault; maybe I'm not cut out for team sports.""
+"
+"""Whenever someone criticizes me, it feels like they're saying everything about me is bad.""
+"
+"""My art didn't sell at the fair; clearly, no one appreciates my talent.""
+"
+"""Every time there's an issue in the relationship, we struggle to resolve it; maybe we're just not meant to be together.""
+"
+"I missed one deadline and now everyone thinks I'm unreliable.
+"
+"""Every time I try to make a change, it doesn't stick; I must be incapable of change.""
+"
+"My neighbors had a party and didn't invite me; they must all dislike me.
+"
+"""Whenever I share my opinion, people challenge it; my opinions must not be valid.""
+"
+"""The last few times I've tried to collaborate with others, we disagreed; maybe I'm just not a team player.""
+"
+"""Each time I attempt to organize my home, it gets messy again quickly; organizing is just something I can't do right.""
+"
+"No one responded to the story I shared on social media; people probably find my life uninteresting.
+"
+"""Whenever there's an opportunity for promotion at work, someone else gets it; clearly, management will never see my potential.""
+"
+"My suggestion was overlooked in the meeting today; nobody values what I have to say.
+"
+"""Every time someone gives me feedback on my writing, they point out errors; maybe everything about my writing style is wrong.""
+"
+"I forgot to turn in one assignment on time; I'm a complete failure as a student.
+"
+"My project didn't get rave reviews; I must not be cut out for this career.
+"
+"I tried to make small talk and it was awkward; I'm socially inept.
+"
+"""Every time I try to decorate my home, it doesn't look like the magazines; I have no sense of style.""
+"
+"No one replied to my party invitation within a day; nobody wants to come and they probably don't like me.
+"
+"""Whenever I share my travel stories, people seem disinterested; maybe my experiences are just not that interesting.""
+"
+"""The last few times I've tried to play the violin, it sounded screechy; clearly, playing an instrument is beyond me.""
+"
+"""Each time someone critiques my driving, it's negative; perhaps I should just stop driving altogether.""
+"
+"""Whenever there's a misunderstanding with someone, it leads to an argument; maybe all of my relationships are doomed to fail.""
+"
+"My homemade bread didn't rise properly; baking is something I'll never get right.
+"
+"I tried to learn a new language and it was hard; I'll never be able to speak another language.
+"
+"My team didn't win the match; I'm not good at any team sports.
+"
+"I made a mistake in my calculations; I'm terrible at math.
+"
+"No one liked my suggestion at the meeting; my ideas are always bad.
+"
+"""Every time I try to play an instrument, it sounds awful; musical talent is something I just don't have.""
+"
+"""Whenever I try to fix things around the house, they end up breaking again; DIY repairs are not for me.""
+"
+"""The last few times I've attempted yoga, it felt too difficult; clearly, yoga isn't for people like me.""
+"
+"""Each time my writing is critiqued, there's criticism; maybe all of my writing is terrible.""
+"
+"""Whenever someone doesn't reply to my messages right away, they must be ignoring me on purpose because they don't like me.""
+"
+"My home workout routine isn't showing results fast enough; fitness must not be possible for me.
+"
+"I missed one appointment; I'm completely unreliable.
+"
+"""Every time I try to play a board game, I lose; I must be the least intelligent person in the room.""
+"
+"My roommate was annoyed with me this morning; we're probably going to have a terrible living situation from now on.
+"
+"""Whenever I cook for my friends, they don't ask for seconds; they must hate my cooking.""
+"
+"""The last few times I've tried to keep up with my reading list, it didn't work out; maybe reading just isn't for me.""
+"
+"""Each time I attempt a new workout routine, it's hard at first; fitness is something that's beyond my reach.""
+"
+"No one responded when I offered help today at work; they must think I'm incompetent or useless.
+"
+"""Whenever there's an awkward pause in conversation, it has to mean people find me uninteresting or weird.""
+"
+"""My suggestion was not implemented at work today; clearly, no one respects my professional opinion.""
+"
+"""Every time someone critiques my art, they find flaws; perhaps everything about my artistry is flawed.""
+"
+"""When someone disagrees with me in a discussion, it feels like all of my arguments are invalid.""
+"
+"""If a friend doesnâ€™t text back quickly, it means our friendship isnâ€™t important to them and never was.""
+"
+"""When trying new activities and feeling clumsy initially, it confirms that being athletic is out of the question for me.""
+"
+"""If any of my plants die despite care efforts, then obviously none should ever be entrusted to me again.""
+"
+"Anytime thereâ€™s silence after sharing an idea at work suggests that all of my contributions are worthless and unwanted.
+"
+"Failing once at negotiating a deal makes clear that negotiation skills are something I'll never possess.
+"
+"Missing the bus this morning proves that bad timing follows me everywhere in life.
+"
+"""Since some guests left early from the party last night, hosting events must not be something anyone enjoys when done by me.""
+"
+"I always say the wrong thing in meetings; I'm just not cut out for this job.
+"
+"""Every time I try to keep a diary, I stop after a week; I can't commit to anything.""
+"
+"My last two attempts at networking were disasters; I'm inherently unlikable.
+"
+"""Whenever my kids don't listen, it's because I have no authority as a parent.""
+"
+"No one responded to my email right away; they must think my work is trivial and unimportant.
+"
+"""Each time I've tried to learn knitting, it ends up in knots; clearly, crafts are not for me.""
+"
+"""If someone doesn't smile back on the street, it means that people find me off-putting or intimidating.""
+"
+"""When my suggestions at family gatherings are overlooked, it confirms that my family doesn't value my input at all.""
+"
+"""Anytime there's an issue with my computer setup, it reinforces that technology is beyond me and always will be.""
+"
+"""The moment someone criticizes a part of my project, it feels like they're saying the entire project is a failure.""
+"
+"I didn't get the last question right on the quiz; I'm definitely not smart enough for this class.
+"
+"My friend canceled our plans last minute; it's obvious that I'm just not a priority to anyone.
+"
+"The audience didn't clap loudly after my performance; they must have all hated it.
+"
+"I tried to fix my sink and it's still leaking; I shouldn't bother trying to fix anything ever again.
+"
+"""Every time I try to contribute in meetings, someone else talks over me; my ideas must be worthless.""
+"
+"No one noticed the new tie I wore today at work; people probably think I have no fashion sense.
+"
+"""Whenever I share an opinion online, there are no likes or comments; my thoughts must be uninteresting to everyone else.""
+"
+"My home-cooked meal wasn't complimented by my guests; they must have found it disgusting.
+"
+"""Each time I've tried a new fitness class, it's been challenging; exercise is just something that isn't meant for me.""
+"
+"""When someone criticizes part of my artwork, they're basically saying the whole thing is terrible.""
+"
+"I forgot to send a thank-you note; I'm the worst friend ever.
+"
+"""Every time I try to budget, I overspend; I'll never be able to manage my finances.""
+"
+"My child didn't listen to me once today; I must be an awful parent.
+"
+"""Whenever I make plans, something goes wrong; maybe I'm just not meant to have a social life.""
+"
+"""The last few times I've tried to get fit, it hasn't worked out; fitness is clearly not for someone like me.""
+"
+"""Each time my partner and I argue, it feels like our relationship is doomed.""
+"
+"""Whenever there's a group project at work, no one seems happy with my contribution; perhaps everything about my teamwork is inadequate.""
+"
+"""My garden isn't as nice as the neighbor's; obviously, nothing in my yard will ever grow properly.""
+"
+"""Every time someone gives me directions and they donâ€™t make sense right away, it confirms that I canâ€™t understand simple instructions.""
+"
+"I was late to one meeting; now everyone at work thinks I'm unreliable.
+"
+"My cake didn't come out perfectly; I'm a terrible baker and should never bake again.
+"
+"I lost my temper once with my child; I must be the worst parent in the world.
+"
+"No one liked my social media post within an hour; people must find me uninteresting.
+"
+"My friend didn't laugh at my joke over text; they must not think I'm funny anymore.
+"
+"""The last time I tried to play guitar, it sounded bad; clearly, music isn't something for me.""
+"
+"""Whenever someone doesn't immediately return my call, they're probably avoiding me on purpose because they don't like talking to me.""
+"
+"""If any of my dates go poorly, it confirms that no one will ever truly love me or want to be with me long-term.""
+"
+"""When a recipe doesn't turn out as expected, it means that all of my cooking is bad and nobody enjoys it.""
+"
+"I didn't get along with my new coworker on the first day; I'm going to have terrible work relationships at this job.
+"
+"My home renovation didn't turn out exactly as planned; I'm not good at any home projects.
+"
+"""I tried to learn skating and fell many times; clearly, I'll never be good at any sport that requires balance.""
+"
+"""The last time I spoke a foreign language, someone corrected me; I must be really bad at learning languages.""
+"
+"My child got one bad grade; they're going to fail this school year for sure.
+"
+"No one asked me to dance at the party; nobody ever finds me attractive or fun.
+"
+"""Whenever I try a puzzle and can't solve it quickly, it proves that my problem-solving skills are poor.""
+"
+"""Each time my recipe doesn't turn out like the picture, it's clear that cooking isn't my thing.""
+"
+"""When people donâ€™t immediately agree with my ideas, it means all of them are flawed and unoriginal.""
+"
+"""If my story doesnâ€™t captivate everyone right away, then storytelling is definitely not something I should do again.""
+"
+"I missed one question on the exam; I'm definitely going to flunk this course.
+"
+"My friend didn't text me back right away; they must not want to be my friend anymore.
+"
+"I tried a new recipe and it didn't taste great; I'm such a terrible cook.
+"
+"""Every time I try to make plans, they fall through; I must be really unlucky.""
+"
+"No one complimented my performance at work today; my colleagues probably think I'm incompetent.
+"
+"""The last time I tried to play basketball, I couldn't score once; clearly, sports aren't for me.""
+"
+"""Each time someone looks at me oddly, it confirms that there's something wrong with how I look or act.""
+"
+"""My house is always messy despite cleaning it often; obviously, keeping a clean home is beyond me.""
+"
+"""When people donâ€™t respond immediately to my messages, they must find talking to me burdensome or irritating.""
+"
+"I spilled my coffee this morning; today is going to be a disaster.
+"
+"I didn't get the first job I applied for; I'm never going to find employment.
+"
+"My partner was upset with me once; our relationship must be terrible.
+"
+"I got one negative review on my product; no one likes what I create.
+"
+"""Every time it rains when I forget an umbrella, it proves that bad things always happen to me.""
+"
+"""When someone criticizes my driving, it means I'm completely incompetent behind the wheel.""
+"
+"""If my child resists bedtime, then clearly, I have no control as a parent whatsoever.""
+"
+"""Whenever there's a typo in my emails, it shows that all of my communication skills are poor.""
+"
+"""The last time I tried to play the piano and made mistakes, it confirmed that musical instruments are not for me at all.""
+"
+"No one replied to my message within two hours; they must all think talking to me is a waste of time.
+"
+"I didn't get the first internship I applied for; my career is doomed before it's even started.
+"
+"My neighbor didn't wave back this morning; nobody in the neighborhood likes me.
+"
+"I tried to make sushi and it fell apart; I'm hopeless in the kitchen.
+"
+"""Every time I try to give a gift, it doesn't seem well-received; I must be terrible at picking out presents for people.""
+"
+"""Whenever my toddler refuses to eat what I cook, it means they hate all of my cooking.""
+"
+"""The last time I attempted a DIY project, it was a flop; clearly, home improvement isn't something I should ever attempt again.""
+"
+"""No one replied to my invitation within a day; obviously, no one wants to attend any event that I host.""
+"
+"""Each time someone critiques my driving, they're saying that everything about how I drive is wrong and dangerous.""
+"
+"""When my cat ignores me and goes to someone else in the room, it confirms that even animals donâ€™t like me.""
+"
+"I missed one deadline; I'm completely useless at managing my time.
+"
+"""Every time I try to draw, it looks terrible; I have no artistic talent whatsoever.""
+"
+"My friend didn't invite me to their wedding; they must not care about our friendship at all.
+"
+"""Whenever I try a new sport and don't excel immediately, it's clear that I'm inherently unathletic.""
+"
+"The last project I worked on received some criticism; maybe everything I do is subpar.
+"
+"""Each time my suggestions are not adopted at work, it feels like none of my ideas are ever good enough.""
+"
+"No one responded to the joke I made in the group chat; they probably find me unfunny and dull.
+"
+"""Whenever there's a delay in getting feedback, it must mean that my work is so bad nobody wants to talk about it.""
+"
+"""If someone doesn't smile back when we pass by each other, they must dislike me personally.""
+"
+"""When any of my plants die despite proper care, it shows that nothing thrives under my care.""
+"
+"""Every time someone disagrees with me in a debate, it means all of my arguments are invalid and weak.""
+"
+"""My roommate pointed out something messy in the apartment once; clearly, they think I'm a slob.""
+"
+"""Whenever there's an issue with something I've organized, it proves that organizational tasks are beyond me.""
+"
+"""If anyone expresses even mild annoyance towards me during an interaction, then everyone must secretly despise being around me.""
+"
+"When trying new recipes and making mistakes along the way confirms that cooking just isn't for people like me.
+"
+"Each time someone chooses another person's idea over mine suggests that none of what I contribute has value or merit.
+"
+"No one praised the effort I put into organizing the event; perhaps all of my efforts always go unnoticed or unappreciated.
+"
+"Whenever thereâ€™s constructive criticism on anything creative that I do indicates total lack of creativity on my part.
+"
+"If any attempt at repairing something minor goes wrong implies complete ineptitude with all things mechanical or technical for me.
+"
+"When people donâ€™t laugh at every single one of my jokes during a conversation surely means none of them find anything about what say amusing or engaging.
+"
+"I missed one question on the test; I'm definitely going to fail this class.
+"
+"My friend didn't laugh at my story; I must be a really dull person.
+"
+"I tried to fix my computer and it's still not working; I'm useless with technology.
+"
+"""Every time I try to diet, I end up gaining weight; diets just don't work for me.""
+"
+"No one chose me for their project team; they must think I have nothing valuable to contribute.
+"
+"""Whenever I share my ideas, no one seems interested; maybe all of my ideas are bad.""
+"
+"""The last few times I've asked someone out, they said no; nobody will ever want to date me.""
+"
+"""Each time I play the piano in front of others, it's not perfect; performing is too stressful and not worth it for me.""
+"
+"""Whenever there's an awkward silence in a conversation, it must mean that people find talking to me uncomfortable or boring.""
+"
+"I forgot to buy milk on my grocery run; I'm always forgetting something important.
+"
+"My team lost the soccer match; it's all my fault for not playing better.
+"
+"I tried to make a new friend and it didn't go well; I'm just socially awkward.
+"
+"""Every time I try to speak up in class, no one seems to care; speaking up is pointless for me.""
+"
+"""Whenever I attempt a DIY project, it doesn't look like the examples online; I'm not good at anything hands-on.""
+"
+"""The last time I sang karaoke, people didn't cheer much; obviously, I can't sing at all.""
+"
+"""Each time someone gives me feedback, they find faults with my work; maybe everything about what I do is wrong.""
+"
+"No one texted me back immediately today; they must all be ignoring me because they donâ€™t want to talk to me.
+"
+"""When my homemade pie crust didn't turn out flaky, it confirmed that baking isnâ€™t something within my abilities.""
+"
+"""If any of my jokes donâ€™t get a laugh, then none of them are funny and neither am I.""
+"
+"I forgot to reply to an email yesterday; I'm the worst at communication.
+"
+"My homemade jam didn't set properly; I'm hopeless in the kitchen.
+"
+"I tripped while walking down the street; I must be the clumsiest person alive.
+"
+"""Every time I try a new sport, I'm not instantly good at it; sports are just not for me.""
+"
+"""Whenever someone gives me a compliment, it feels like they're just being polite and don't really mean it.""
+"
+"""The last time I tried to lead a project, we missed a deadline; leadership roles are clearly beyond my abilities.""
+"
+"""Each time my writing is rejected by a publisher, it confirms that no one will ever want to read what I write.""
+"
+"""When people don't laugh at all of my jokes, they must find none of them funny and think that I have no sense of humor.""
+"
+"""If any part of my house is untidy, then my whole house is a complete mess and reflects poorly on me as a homeowner.""
+"
+"I stumbled during my presentation; I'm a total failure at public speaking.
+"
+"My project didn't win the award; I'll never be successful in my field.
+"
+"I forgot to wish my friend a happy birthday; I'm such a terrible friend.
+"
+"""Every time I try to keep up with current events, I get overwhelmed; maybe staying informed just isn't for me.""
+"
+"No one responded to my suggestion in the meeting today; they must all think it's stupid.
+"
+"""Whenever I try to play an online game, I lose; clearly, gaming is not something I should ever do again.""
+"
+"""The last time someone gave me feedback, it was critical; there's no way anyone respects my work.""
+"
+"""Each time I've tried to learn how to swim, it's been difficult; swimming is obviously not an activity meant for me.""
+"
+"""When people don't immediately laugh at my stories, they're probably bored by everything about me.""
+"
+"I made a mistake on my taxes; I'm terrible with all financial matters.
+"
+"My boss didn't smile at me this morning; she must hate me.
+"
+"I was nervous during my speech; public speaking is definitely not something I can do.
+"
+"The guests left early from my party; no one enjoys spending time with me.
+"
+"I got one answer wrong in trivia night; I don't have any general knowledge.
+"
+"My friend didn't text back for a day; they must be angry with me.
+"
+"""Every time I try to make art, it doesn't turn out right; I'm just not creative at all.""
+"
+"No one complimented the meal I cooked last night; everyone must have hated it.
+"
+"""Whenever someone disagrees with my opinion, it means that all of my views are wrong and unimportant.""
+"
+"""My home business isn't taking off as fast as others'; clearly, entrepreneurship is not for people like me.""
+"
+"I missed a couple of days at the gym; I'll never be fit.
+"
+"My soufflÃ© didn't rise; I'm hopeless at cooking.
+"
+"I lost my temper with my kids today; I'm a terrible parent.
+"
+"No one replied to my party invite within a week; nobody wants to be my friend.
+"
+"""Every time I try to budget, it falls apart; I must be financially irresponsible.""
+"
+"My painting didn't turn out as expected; I have no artistic talent whatsoever.
+"
+"""If any of my posts don't get likes on social media, then none of what I say matters to anyone.""
+"
+"I forgot to send a birthday card to my friend; I'm the worst friend ever.
+"
+"""Every time I try to play a new sport, I'm terrible at it; I must be unathletic.""
+"
+"My coworker seemed upset today; it has to be because of something I did.
+"
+"""The last time I tried public speaking, I got nervous; obviously, public speaking is not for me.""
+"
+"""Whenever my child misbehaves in public, everyone must think I'm a bad parent.""
+"
+"""If my house isn't spotless when guests come over, they'll think I live in total squalor.""
+"
+"""When someone criticizes one aspect of my work, it means they hate everything about what I do.""
+"
+"No one said 'thank you' when I held the door open; people are so ungrateful these days.
+"
+"My project didn't get chosen for the showcase; my work must be completely unimpressive.
+"
+"I tried to make a new dish and it turned out badly; I'm such a failure in the kitchen.
+"
+"No one replied to my comment during the meeting; they must all think I have nothing worthwhile to say.
+"
+"""Every time I try something new, it's hard at first; clearly, I'm not good at learning new things.""
+"
+"""Whenever someone doesn't laugh at my jokes, it means none of them are funny and that I'm not humorous at all.""
+"
+"""The last time I tried to organize an event, not many people showed up; nobody likes attending events organized by me.""
+"
+"""Each time my child struggles with homework, it feels like they're always going to struggle in school.""
+"
+"""When anyone criticizes even a small part of my outfit, it confirms that my entire sense of style is terrible.""
+"
+"""If any attempt at starting a conversation fizzles out quickly, then obviously no one finds me interesting or worth talking to.""
+"
+"I forgot to charge my phone last night and it died today; this always happens because I can't do anything right.
+"
+"My team didn't win the trivia night; I must be the least knowledgeable person in every subject.
+"
+"""The cake I made was slightly overcooked; I'm such a failure at baking, no one will ever enjoy my desserts.""
+"
+"My friend didn't reply to my text for several hours; they must not value our friendship at all.
+"
+"""Every time I try to play a card game, I don't win; clearly, card games are just something that's beyond me.""
+"
+"""Whenever someone gives me a puzzled look, it means they think everything about me is odd or off-putting.""
+"
+"""When people give me feedback on my driving, even if it's minor, it feels like they're saying that I'm an awful driver overall.""
+"
+"""Each time someone doesn't immediately accept my invitation, it confirms that nobody really wants to spend time with me.""
+"
+"I missed one deadline at work; my career is completely ruined.
+"
+"I had a disagreement with my partner; we must be totally incompatible.
+"
+"I tried to learn the violin and it sounded terrible; I'm never going to be musical.
+"
+"My son got into trouble at school once; he's definitely going to be a delinquent.
+"
+"No one liked the photo I posted online within an hour; my photography skills must be awful.
+"
+"""Every time I try to make a new friend, it feels awkward; I'm destined to always be alone.""
+"
+"""Whenever someone criticizes my cooking, it means all of my dishes are unpalatable.""
+"
+"""Each time someone doesn't laugh at my jokes, it confirms that I have no sense of humor whatsoever.""
+"
+"""If any of my plants die despite care efforts, then obviously none should ever be entrusted to me again.""
+"
+"I missed one question on the quiz; I'm definitely not cut out for this subject.
+"
+"My team lost the game; it's all my fault since I was playing too.
+"
+"I forgot to bring snacks to the party; everyone must think I'm thoughtless and inconsiderate.
+"
+"""The last time I tried to lead a group, we didn't finish our task on time; I must be a terrible leader.""
+"
+"""Every time I try something new and struggle, it confirms that trying new things is just not for me.""
+"
+"""If any of my posts don't get likes on social media, then nothing I say matters to anyone.""
+"
+"My team lost the game; it's all my fault since I was playing too.
+"
+"I forgot to bring snacks to the party; everyone must think I'm thoughtless and inconsiderate.
+"
+"""The last time I tried to lead a group, we didn't finish our task on time; I must be a terrible leader.""
+"
+"""Every time I try something new and struggle, it confirms that trying new things is just not for me.""
+"
+"""If any of my posts don't get likes on social media, then nothing I say matters to anyone.""
+"
+"I didn't get the first job I interviewed for; I'll never be employed.
+"
+"My friend didn't smile at me today; they must hate me.
+"
+"I can't seem to do this yoga pose right; I'm just not cut out for any physical activity.
+"
+"""Every time I try to save money, something comes up; it's hopeless, I'll always be broke.""
+"
+"No one said anything about my new outfit; they must think I look ridiculous.
+"
+"""Whenever someone corrects me, it means everything I say is wrong.""
+"
+"""The last time I tried to fix something at home, it went wrong; clearly, handiwork isn't in my skillset.""
+"
+"""If anyone disagrees with my point of view during a discussion, then all of my opinions must be invalid and unworthy of consideration.""
+"
+"I made a mistake on this project; I'm going to get fired for sure.
+"
+"My roommate was quiet this morning; they must be mad at me.
+"
+"I didn't understand that concept right away; I must be really dumb.
+"
+"Nobody complimented my presentation; they all must have hated it.
+"
+"I lost that game of chess; I'll never win any game again.
+"
+"My blog post only got one like; nobody is interested in what I have to say.
+"
+"""The last time I tried to learn a dance, it was too hard for me; dancing is just something I can't do.""
+"
+"""Whenever someone doesn't return my smile, they're clearly finding me unattractive or unpleasant.""
+"
+"""If my child has a bad day at school, then it's definitely because of my parenting style.""
+"
+"My friend didn't reply to my message right away; they must not care about our friendship.
+"
+"I made a mistake at work today; I'm sure everyone thinks I'm incompetent now.
+"
+"No one sat next to me on the bus; people must find me unapproachable.
+"
+"""Every time I try to keep a plant alive, it dies; clearly, I shouldn't have plants.""
+"
+"The audience was quiet during my speech; they must have found it completely boring and worthless.
+"
+"""Whenever someone criticizes my driving, even slightly, it means that I am a terrible driver overall.""
+"
+"""If any of my dates don't lead to a second date, then no one will ever want to be with me romantically.""
+"
+"""When someone disagrees with me in an argument, it's because all of my ideas are flawed and stupid.""
+"
+"I didn't get a reply to my email within a day; nobody at work respects me or values my time.
+"
+"I forgot to wish my colleague happy birthday; I'm the most inconsiderate person ever.
+"
+"My homemade cake was slightly dry; I'm an absolute disaster in the kitchen and shouldn't bother trying again.
+"
+"I tripped over while jogging; I'm just too uncoordinated for any kind of sport or physical activity.
+"
+"""Whenever I try to give advice, it seems not to be taken; maybe everything I suggest is useless and wrong.""
+"
+"""The last time I tried to meditate, it was difficult; clearly, mindfulness and relaxation are out of reach for someone like me.""
+"
+"""Each time my child resists doing homework, it feels like they're always going to hate learning.""
+"
+"""When people donâ€™t immediately respond enthusiastically about my ideas at work, it means none of them have any merit whatsoever.""
+"
+"""If anyone looks at their watch while talking to me, then obviously they think that conversing with me is a waste of their time.""
+"
+"My friend canceled our coffee date; they must not like spending time with me at all.
+"
+"I made a mistake in my report; my boss is going to think I'm totally incompetent.
+"
+"No one complimented the dish I brought to the potluck; everyone must have thought it was disgusting.
+"
+"""Every time I try to play a new game, I don't do well immediately; clearly, games are just not something I'll ever enjoy or be good at.""
+"
+"""The last time I tried to give a presentation, it didn't go perfectly; public speaking is definitely something that's beyond my capabilities.""
+"
+"""Each time my child has trouble with their homework, it confirms that they're never going to succeed academically.""
+"
+"""When people choose another person's idea over mine at work, it means none of my ideas are any good and nobody respects me professionally.""
+"
+"I didn't get the job I wanted; my career is over.
+"
+"My partner was in a bad mood today; they must be unhappy with our relationship.
+"
+"""I forgot to buy one item from the grocery store; I'm so forgetful, I can't do anything right.""
+"
+"Nobody liked my post within the first hour; no one cares about what I have to say.
+"
+"""Every time I try to fix something, it doesn't work out; I shouldn't bother trying to fix things anymore.""
+"
+"""When someone criticizes me at work, it means that everything I do is wrong and unappreciated.""
+"
+"""If my child has a tantrum, it's because I'm failing as a parent and can't do anything right for them.""
+"
+"""Whenever there's conflict in my family, it feels like we're just not meant to get along ever again.""
+"
+"""The last time I tried a new hobby, it wasnâ€™t easy immediately; hobbies are just not for me.""
+"
+"I missed one deadline at work; I'm a complete failure.
+"
+"""Every time I try to socialize, it feels awkward; I must be inherently antisocial.""
+"
+"My project received some criticism; my entire career is a disaster.
+"
+"No one complimented me on my presentation skills today; I must be the worst speaker in the company.
+"
+"""Whenever I share an idea, and it's not immediately embraced, it confirms that all of my ideas are terrible.""
+"
+"""If any of my friends are too busy to hang out, they clearly don't value our friendship at all.""
+"
+"""When someone frowns at something I say, it means they disapprove of everything about me.""
+"
+"""Each time I've tried to save money and failed, it proves that financial security is unattainable for me.""
+"
+"""The last few times I've tried to learn a new skill, it was challenging; learning new things just isn't for people like me.""
+"
+"""Whenever there's silence after I speak in a meeting, everyone must think what I said was stupid or irrelevant.""
+"
+"My friend didn't text me back right away; they must not want to be my friend anymore.
+"
+"I tried a new recipe and it didn't taste great; I'm such a terrible cook.
+"
+"""Every time I try to make plans, they fall through; I must be really unlucky.""
+"
+"No one complimented my performance at work today; my colleagues probably think I'm incompetent.
+"
+"""The last time I tried to play basketball, I couldn't score once; clearly, sports aren't for me.""
+"
+"""Each time someone looks at me oddly, it confirms that there's something wrong with how I look or act.""
+"
+"""My house is always messy despite cleaning it often; obviously, keeping a clean home is beyond me.""
+"
+"""When people donâ€™t respond immediately to my messages, they must find talking to me burdensome or irritating.""
+"
+"""Every time I try to tell a story, no one seems interested; I must be the most boring person ever.""
+"
+"My roommate was annoyed with me today; it's clear that we can never get along.
+"
+"""Whenever I cook, something always goes wrong; I should just stop trying to cook altogether.""
+"
+"""The last time I tried to play a musical instrument, it sounded terrible; music is definitely not my thing.""
+"
+"""Each time someone doesn't smile back at me, it confirms that nobody likes me.""
+"
+"No one responded when I asked for feedback on my project; they must think it's completely worthless.
+"
+"""Whenever there's a group activity and no one picks me first, it shows that everyone thinks I'm incompetent or unskilled.""
+"
+"""If any of my plants don't thrive immediately, then clearly, gardening is not an activity suited for me.""
+"
+"My cat prefers my roommate's lap over mine; she must not like me at all.
+"
+"I didn't get a 'good morning' back when I greeted my neighbor; they must find me annoying.
+"
+"""Every time I try to keep up with fashion trends, it doesn't work out; I have no sense of style whatsoever.""
+"
+"""Whenever I suggest a movie and friends don't love it, it means my taste in movies is terrible.""
+"
+"""The last time I tried to organize an outing, no one could make it; clearly, nobody wants to hang out with me.""
+"
+"""Each time someone critiques my artwork, they're saying that none of what I create is good enough.""
+"
+"""When people don't immediately agree with my suggestions at meetings, it confirms that all of my contributions are worthless.""
+"
+"My friend didn't reply to my message right away; they must not care about our friendship.
+"
+"I made a mistake at work today; I'm sure everyone thinks I'm incompetent now.
+"
+"No one sat next to me on the bus; people must find me unapproachable.
+"
+"""Every time I try to keep a plant alive, it dies; clearly, I shouldn't have plants.""
+"
+"The audience was quiet during my speech; they must have found it completely boring and worthless.
+"
+"""Whenever someone criticizes my driving, even slightly, it means that I am a terrible driver overall.""
+"
+"""If any of my dates don't lead to a second date, then no one will ever want to be with me romantically.""
+"
+"""When someone disagrees with me in an argument, it's because all of my ideas are flawed and stupid.""
+"
+"I didn't get a response to my greeting this morning; nobody at work likes me.
+"
+"I forgot to bring dessert to the potluck; everyone must think I'm selfish and rude.
+"
+"My homemade soup wasn't as good as usual; I can't cook anything right.
+"
+"""The last time I tried to start a conversation, it fizzled out quickly; I'm just not interesting to talk to.""
+"
+"""Whenever my team doesn't win, it feels like it's always because of me; I'm bad at all team activities.""
+"
+"""If any of my social media posts don't get engagement, then everything I post is unlikable and ignored by everyone.""
+"
+"""When someone critiques even one aspect of my project, they're implying that the whole thing is a failure.""
+"
+"""Each time I've tried to make new friends and it hasnâ€™t worked out instantly, it proves that no one ever wants to be friends with me.""
+"
+"No one asked for help on their task today; they must think Iâ€™m incapable of helping them properly.
+"
+"I didn't get the first promotion I applied for; my career is going nowhere.
+"
+"My homemade cookies weren't perfect; I'm terrible at baking and should never try again.
+"
+"""I tried to learn a new language and it was hard; clearly, I'm not cut out for learning new things.""
+"
+"No one noticed the effort I put into cleaning the house; they must think I'm lazy and untidy.
+"
+"""Whenever my child doesn't ace a test, it means they're not smart and neither am I as a parent.""
+"
+"""The last time I went to a social event, no one talked to me much; people just don't find me interesting or worth their time.""
+"
+"""Each time my work isn't praised, it confirms that everything about my job performance is subpar.""
+"
+"""If any of my jokes donâ€™t get a laugh, then none of them are funny and neither am I.""
+"
+"""When someone cancels plans with me last minute, it's because they found something better to do since being with me would be boring.""
+"
+"My art piece didnâ€™t sell immediately; nobody likes or understands my art.
+"
+"I missed one question on the quiz; I'm definitely not cut out for this subject.
+"
+"I forgot to bring snacks to the party; everyone must think I'm thoughtless and inconsiderate.
+"
+"""The last time I tried to lead a group, we didn't finish our task on time; I must be a terrible leader.""
+"
+"""Every time I try something new and struggle, it confirms that trying new things is just not for me.""
+"
+"""If any of my posts don't get likes on social media, then nothing I say matters to anyone.""
+"
+"I didn't get the first loan I applied for; I'll never be able to buy a house.
+"
+"My boss corrected a small error in my report; I'm completely incompetent at my job.
+"
+"I tried to learn skateboarding and fell; I should give up on all sports.
+"
+"Nobody complimented the dish I brought to the dinner; they must have all hated it.
+"
+"My article got one negative comment; nobody appreciates my writing.
+"
+"""The last time I hosted a game night, fewer people showed up than expected; no one enjoys my company.""
+"
+"""Whenever someone yawns while talking to me, it's because they find me utterly boring.""
+"
+"""If any of my classmates don't say hello back, then none of them like me at all.""
+"
+"""When my pet ignores me, it means that even animals can't stand being around me.""
+"
+"""Each time I try to make a budget and fail, it proves that financial responsibility is something beyond my grasp forever.""
+"
+"I missed one question on the practice test; I'm definitely going to bomb the real exam.
+"
+"My friend didn't like the movie I chose; I have the worst taste in movies.
+"
+"I couldn't finish the marathon; I'm not cut out for any kind of endurance sports.
+"
+"""Whenever someone doesn't immediately grasp my explanation, it means that all of my explanations are confusing and unhelpful.""
+"
+"""The last time I tried to organize a meeting, no one showed up on time; clearly, nobody respects my efforts or time.""
+"
+"""Each time I've tried to play a strategy game and lost, it confirms that strategic thinking is just something beyond me.""
+"
+"""If anyone criticizes even a small part of my project proposal, then obviously the whole idea is worthless and should be scrapped entirely.""
+"
+"My dog didn't listen to me once today; I must be a terrible pet owner.
+"
+"I got one question wrong on the quiz; my academic career is over.
+"
+"""Whenever someone doesn't immediately agree with my opinion, it means all of my opinions are invalid and worthless.""
+"
+"""The last time I tried to make small talk, it was awkward; social interactions are always going to be impossible for me.""
+"
+"""Each time my team loses a match, it feels like it's entirely because of me; maybe team sports aren't meant for people like me.""
+"
+"My friend didn't laugh at my story; no one ever finds me funny.
+"
+"I tried to learn to code and it was difficult; I'll never be able to understand anything tech-related.
+"
+"""Every time I try a new workout, it's hard; exercise just isn't something I can do.""
+"
+"""Whenever someone cancels plans with me, they must not like spending time with me at all.""
+"
+"""The last time I attempted gardening, my plants died; clearly, I shouldn't even try gardening anymore.""
+"
+"""Each time someone disagrees with my ideas, it feels like they're saying all of my thoughts are worthless.""
+"
+"""If any of my messages go unanswered for a day, then everyone must be deliberately ignoring me because they donâ€™t want to talk to me.""
+"
+"""I didn't get the promotion, so my career is going nowhere.""
+"
+"My homemade bread didn't rise; I'm a failure at baking.
+"
+"I tripped while running; I'm too clumsy to do any sports.
+"
+"No one replied to my email within a day; they must all think my ideas are unimportant.
+"
+"""Every time I try to meditate, my mind wanders; meditation just isn't for me.""
+"
+"""The last time I tried painting, it was a disaster; obviously, art isn't for me.""
+"
+"""Each time someone critiques my work, they find something wrong; maybe everything about my work is flawed.""
+"
+"I missed one question on the test; I'm definitely going to fail this class.
+"
+"My friend didn't laugh at my story; I must be a really dull person.
+"
+"I tried to fix my computer and it's still not working; I'm useless with technology.
+"
+"""Every time I try to diet, I end up gaining weight; diets just don't work for me.""
+"
+"No one chose me for their project team; they must think I have nothing valuable to contribute.
+"
+"""Whenever I share my ideas, no one seems interested; maybe all of my ideas are bad.""
+"
+"""The last few times I've asked someone out, they said no; nobody will ever want to date me.""
+"
+"""Each time I play the piano in front of others, it's not perfect; performing is too stressful and not worth it for me.""
+"
+"""Whenever there's an awkward silence in a conversation, it must mean that people find talking to me uncomfortable or boring.""
+"
+"My dog didn't come when I called him once; he must not love me at all.
+"
+"I got a B on my test instead of an A; I don't excel in academics.
+"
+"""The last time I tried to make friends, it was awkward; no one ever wants to be around me.""
+"
+"""Whenever someone doesn't immediately reply to my emails, they must think my work is trivial and unimportant.""
+"
+"""If any of my jokes donâ€™t get a laugh, then none of them are funny and neither am I.""
+"
+"""When people give me feedback on my writing, even if it's constructive, it feels like they're saying everything about what I write is terrible.""
+"
+"No one praised the effort I put into organizing the event; perhaps all of my efforts always go unnoticed or unappreciated.
+"
+"I missed one deadline; I'm completely incompetent at time management.
+"
+"My cake didn't turn out like the picture; I'm terrible at baking and should never try again.
+"
+"""I tried to play tennis and lost my first match; clearly, I have no athletic ability whatsoever.""
+"
+"""Every time I apply for a job and don't get it, it confirms that I'm unemployable.""
+"
+"""Whenever someone doesn't laugh at my humor, it's because nothing about what I say is funny or interesting.""
+"
+"The last project I worked on wasn't perfect; maybe all of my work is substandard and not worthy of recognition.
+"
+"""When people critique even a small part of my presentation, they're implying that the entire thing was a failure.""
+"
+"""Each time someone disagrees with me in a meeting, it feels like none of my opinions are ever valid or respected.""
+"
+"No one responded to the dinner invitation within two days; nobody wants to spend time with me.
+"
+"My team lost the game; it's all my fault since I was playing too.
+"
+"I forgot to bring snacks to the party; everyone must think I'm thoughtless and inconsiderate.
+"
+"""The last time I tried to lead a group, we didn't finish our task on time; I must be a terrible leader.""
+"
+"""Every time I try something new and struggle, it confirms that trying new things is just not for me.""
+"
+"""If any of my posts don't get likes on social media, then nothing I say matters to anyone.""
+"
+"My friend didn't immediately respond to my text; they must be upset with me.
+"
+"I tried a new sport and wasn't good at it right away; I'll never be athletic.
+"
+"""Whenever my suggestion is overlooked, it's because all of my ideas are bad.""
+"
+"""The last time I cooked, the meal was just okay; clearly, I can't cook well at all.""
+"
+"""Each time someone looks away while talking to me, it means they're bored by everything about me.""
+"
+"""If any of my social media posts don't get many likes, then nobody cares about what's happening in my life.""
+"
+"""When people criticize a part of my project, it feels like they hate the entire thing.""
+"
+"I missed one question on the practice test; I'm definitely going to bomb the real exam.
+"
+"My friend didn't like the movie I chose; I have the worst taste in movies.
+"
+"I couldn't finish the marathon; I'm not cut out for any kind of endurance sports.
+"
+"""Whenever someone doesn't immediately grasp my explanation, it means that all of my explanations are confusing and unhelpful.""
+"
+"""The last time I tried to organize a meeting, no one showed up on time; clearly, nobody respects my efforts or time.""
+"
+"""Each time I've tried to play a strategy game and lost, it confirms that strategic thinking is just something beyond me.""
+"
+"""If anyone criticizes even a small part of my project proposal, then obviously the whole idea is worthless and should be scrapped entirely.""
+"
+"I missed one deadline; my entire career is in jeopardy.
+"
+"I tried to learn guitar and it was hard; I'm not musically inclined at all and should give up.
+"
+"""Every time I try to make a new friend, it doesn't go perfectly; I must be socially inept.""
+"
+"""If any of my plants look wilted, then clearly I shouldn't bother with gardening ever again.""
+"
+"""Each time I've tried a new diet and haven't seen immediate results, it confirms that weight loss isn't possible for me.""
+"
+"My last few social media posts didnâ€™t get many likes; everyone must be getting tired of me.
+"
+"My friend didn't invite me to their gathering; they must not like me at all.
+"
+"I tried a new workout and couldn't keep up; I'm just not meant for any physical activity.
+"
+"""Each time someone gives me feedback, it's negative; there must be nothing positive about what I do.""
+"
+"My blog hasnâ€™t gained any followers since its launch; blogging is obviously not for me.
+"
+"Whenever thereâ€™s constructive criticism on anything creative that I do indicates total lack of creativity on my part.
+"
+"If any attempt at repairing something minor goes wrong implies complete ineptitude with all things mechanical or technical for me.
+"
+"When people donâ€™t laugh at every single one of my jokes during a conversation surely means none of them find anything about what say amusing or engaging.
+"
+"I missed one question on the test; I'm definitely going to fail this class.
+"
+"My friend didn't laugh at my story; I must be a really dull person.
+"
+"I tried to fix my computer and it's still not working; I'm useless with technology.
+"
+"""Every time I try to diet, I end up gaining weight; diets just don't work for me.""
+"
+"No one chose me for their project team; they must think I have nothing valuable to contribute.
+"
+"""Whenever I share my ideas, no one seems interested; maybe all of my ideas are bad.""
+"
+"""The last few times I've asked someone out, they said no; nobody will ever want to date me.""
+"
+"""Each time I play the piano in front of others, it's not perfect; performing is too stressful and not worth it for me.""
+"
+"""Whenever there's an awkward silence in a conversation, it must mean that people find talking to me uncomfortable or boring.""
+"
+"I didn't get the first parking spot; I'll never find a good spot anywhere.
+"
+"My coworker disagreed with my idea; no one at work ever supports me.
+"
+"I tried to play the piano and made a mistake; I'm not cut out for any musical instrument.
+"
+"""The last time I hosted dinner, not everyone showed up; people just don't like my company.""
+"
+"""Whenever I try to lead a team, we encounter problems; leadership must not be something I can handle.""
+"
+"""If my child doesn't listen to me once, it means they never respect me as a parent.""
+"
+"""When someone critiques my driving once, it's because I'm the worst driver on the road.""
+"
+"""Each time I apply for a promotion and don't get it, it confirms that management will always overlook me.""
+"
+"My friend canceled our coffee date; they must not like spending time with me at all.
+"
+"I made a mistake in my report; my boss is going to think I'm totally incompetent.
+"
+"No one sat next to me on the bus; people must find me unapproachable.
+"
+"""Every time I try to keep a plant alive, it dies; clearly, I shouldn't have plants.""
+"
+"The audience was quiet during my speech; they must have found it completely boring and worthless.
+"
+"""Whenever someone criticizes my driving, even slightly, it means that I am a terrible driver overall.""
+"
+"""If any of my dates don't lead to a second date, then no one will ever want to be with me romantically.""
+"
+"""When someone disagrees with me in an argument, it's because all of my ideas are flawed and stupid.""
+"
+"I missed one question on the quiz; I'm bound to fail the entire class.
+"
+"My project didn't get immediate praise; it must be completely worthless.
+"
+"I tried a new hobby and wasn't instantly good at it; hobbies are just not for me.
+"
+"No one responded to my message within five minutes; they all must hate me.
+"
+"""Every time I try to learn something new, it's hard at first; clearly, learning isn't for me.""
+"
+"""Whenever someone doesn't immediately smile back, they find me unlikable.""
+"
+"""If my home-cooked meal isn't perfect, then I'm a terrible cook and should never cook again.""
+"
+"""When my idea is rejected once, it means that all of my ideas are bad and nobody respects them.""
+"
+"""Each time I've tried to make a change in my life and faced resistance, it confirms that change is impossible for me.""
+"
+"I missed one deadline at work; I'm totally going to get fired.
+"
+"My painting didn't sell immediately; no one likes my art.
+"
+"I tried a new recipe and it was a disaster; I must be the worst cook in the world.
+"
+"No one noticed the extra effort I put in at work today; my efforts are always unnoticed.
+"
+"""The last time I went on a date, it didn't go well; clearly, no one will ever want to be with me.""
+"
+"""Each time my child misbehaves, it reflects poorly on all of my parenting skills.""
+"
+"""When people donâ€™t respond right away to my messages, they must not care about me at all.""
+"
+"I didn't get the job I wanted; I'll never be able to find a decent job.
+"
+"I made one mistake in my performance; my whole act was a disaster.
+"
+"""Every time I try something new, it doesn't work out right away; I'm not good at learning new things.""
+"
+"""Whenever someone looks at me funny, they must think there's something wrong with me.""
+"
+"""Each time my suggestion is ignored in a meeting, it confirms that none of my ideas are valuable.""
+"
+"""If any of my social media posts don't get engagement, then everything about what I post is uninteresting and unworthy of attention.""
+"
+"My friend didn't laugh at my story; no one ever finds me funny.
+"
+"I tried a new workout and couldn't keep up; I'm just not meant for any physical activity.
+"
+"""The last time I attempted gardening, my plants died; clearly, I shouldn't even try gardening anymore.""
+"
+"""Each time someone disagrees with my ideas, it feels like they're saying all of my thoughts are worthless.""
+"
+"""If any of my messages go unanswered for a day, then everyone must be deliberately ignoring me because they donâ€™t want to talk to me.""
+"
+"My friend didn't laugh at my story; I must be a really dull person.
+"
+"I tried to fix my computer and it's still not working; I'm useless with technology.
+"
+"""Every time I try to diet, I end up gaining weight; diets just don't work for me.""
+"
+"No one chose me for their project team; they must think I have nothing valuable to contribute.
+"
+"""Whenever I share my ideas, no one seems interested; maybe all of my ideas are bad.""
+"
+"""The last few times I've asked someone out, they said no; nobody will ever want to date me.""
+"
+"""Each time I play the piano in front of others, it's not perfect; performing is too stressful and not worth it for me.""
+"
+"""Whenever there's an awkward silence in a conversation, it must mean that people find talking to me uncomfortable or boring.""
+"
+"I spilled coffee on my shirt; this is going to be a terrible day.
+"
+"I didn't get the first parking spot; I'll never find a good spot anywhere.
+"
+"My coworker disagreed with my idea; no one at work ever supports me.
+"
+"I tried to play the piano and made a mistake; I'm not cut out for any musical instrument.
+"
+"""The last time I hosted dinner, not everyone showed up; people just don't like my company.""
+"
+"""Whenever I try to lead a team, we encounter problems; leadership must not be something I can handle.""
+"
+"""If my child doesn't listen to me once, it means they never respect me as a parent.""
+"
+"""When someone critiques my driving once, it's because I'm the worst driver on the road.""
+"
+"""Each time I apply for a promotion and don't get it, it confirms that management will always overlook me.""
+"
+"My friend didn't immediately respond to my text; they must be upset with me.
+"
+"I tried a new sport and wasn't good at it right away; I'll never be athletic.
+"
+"""Whenever my suggestion is overlooked, it's because all of my ideas are bad.""
+"
+"""The last time I cooked, the meal was just okay; clearly, I can't cook well at all.""
+"
+"""Each time someone looks away while talking to me, it means they're bored by everything about me.""
+"
+"""If any of my social media posts don't get many likes, then nobody cares about what's happening in my life.""
+"
+"""When people criticize a part of my project, it feels like they hate the entire thing.""
+"
+"I missed one deadline; I'm completely useless at managing my time.
+"
+"My dog didn't listen to me once today; I must be a terrible pet owner.
+"
+"I got one question wrong on the quiz; my academic career is over.
+"
+"""Whenever someone doesn't immediately agree with my opinion, it means all of my opinions are invalid and worthless.""
+"
+"""The last time I tried to make small talk, it was awkward; social interactions are always going to be impossible for me.""
+"
+"""Each time my team loses a match, it feels like it's entirely because of me; maybe team sports aren't meant for people like me.""
+"
+"I forgot to bring snacks to the party; everyone must think I'm thoughtless and inconsiderate.
+"
+"""The last time I tried to lead a group, we didn't finish our task on time; I must be a terrible leader.""
+"
+"""Every time I try something new and struggle, it confirms that trying new things is just not for me.""
+"
+"""If any of my posts don't get likes on social media, then nothing I say matters to anyone.""
+"
+"I didn't get the job after my first interview; I'm never going to be successful.
+"
+"I tried a new fitness class and found it hard; I'm just not cut out for any exercise at all.
+"
+"No one liked my recent post within a few hours; people must think my life is boring and uninteresting.
+"
+"""The last time I cooked dinner, it wasn't perfect; obviously, I'm a terrible cook and should stop trying.""
+"
+"""Each time someone gives me feedback on my writing, it's critical; there must be nothing good about what I write.""
+"
+"I didn't get a perfect score on the test; I'm not cut out for this subject at all.
+"
+"I tried to learn skateboarding and fell off once; it's clear that I'll never be good at any sport.
+"
+"No one complimented the meal I made last night; my cooking must be awful and unappetizing to everyone.
+"
+"""The last time I tried to paint, it didn't turn out as expected; painting is just something that's beyond my abilities forever.""
+"
+"""If any of my work projects face challenges, then clearly, I am completely unsuited for this job or any professional task.""
+"
+"I didn't get the first internship I applied for; my entire career is already a failure.
+"
+"My homemade cake sank in the middle; I'm obviously terrible at baking and shouldn't bother trying again.
+"
+"No one asked me to join their lunch table today; they must all dislike me.
+"
+"""Every time I try to learn something technical, it's confusing at first; tech is just not something I'll ever understand.""
+"
+"I didn't get the job I wanted; I'm never going to be successful in my field.
+"
+"I made a mistake during my presentation; everyone must think I'm incompetent.
+"
+"No one commented on my new haircut; it looks terrible and they're just too polite to say it.
+"
+"""The last time I tried a diet, it didn't work out; diets are pointless for me and always will be.""
+"
+"""Each time I've tried dating recently, it hasn't worked out; maybe love just isn't meant for people like me.""
+"
+"""If any of my suggestions at work are not implemented immediately, then none of them are good enough and never will be.""
+"
+"I missed one question on the quiz; I'm bound to fail the entire class.
+"
+"My project didn't get immediate praise; it must be completely worthless.
+"
+"I tried a new hobby and wasn't instantly good at it; hobbies are just not for me.
+"
+"No one responded to my message within five minutes; they all must hate me.
+"
+"""Every time I try to learn something new, it's hard at first; clearly, learning isn't for me.""
+"
+"""Whenever someone doesn't immediately smile back, they find me unlikable.""
+"
+"""If my home-cooked meal isn't perfect, then I'm a terrible cook and should never cook again.""
+"
+"""When my idea is rejected once, it means that all of my ideas are bad and nobody respects them.""
+"
+"""Each time I've tried to make a change in my life and faced resistance, it confirms that change is impossible for me.""
+"
+"My project didn't get immediate approval; it's probably a complete failure and not worth pursuing.
+"
+"""I tried to learn a new language, but it was challenging at first; I must be terrible at languages.""
+"
+"No one responded to my presentation with applause; they must have all found it uninteresting and dull.
+"
+"""Every time I try to organize something, there's always an issue; I must be really bad at planning events.""
+"
+"""The last time I attempted to play soccer, I missed the goal; clearly, sports are just not for me.""
+"
+"""If any of my colleagues don't immediately agree with my ideas during a meeting, then all of my contributions must be useless.""
+"
+"I didn't get the job after my second interview; I'm clearly unemployable.
+"
+"I tried to learn rollerblading and fell down; I'm never going to be good at any sport.
+"
+"No one asked me for help with their project; they must think I'm useless.
+"
+"""Every time I try a new recipe, it doesn't turn out like the picture; cooking is just something I can't do right.""
+"
+"""Whenever someone gives me even slight criticism, it means that everything about me is flawed and unacceptable.""
+"
+"""The last time I gave advice, it wasn't followed; obviously, my advice is always bad and no one should listen to me.""
+"
+"""Each time my work isn't acknowledged with praise, it confirms that none of what I do has any value or impact.""
+"
+"""If anyone cancels plans with me once, then everyone finds spending time with me undesirable and boring.""
+"
+"My friend didn't laugh at my story; no one ever finds me funny.
+"
+"I tried a new workout and couldn't keep up; I'm just not meant for any physical activity.
+"
+"""The last time I attempted gardening, my plants died; clearly, I shouldn't even try gardening anymore.""
+"
+"""Each time someone disagrees with my ideas, it feels like they're saying all of my thoughts are worthless.""
+"
+"""If any of my messages go unanswered for a day, then everyone must be deliberately ignoring me because they donâ€™t want to talk to me.""
+"
+"I made one mistake on my homework; I'm obviously terrible at this subject and shouldn't even be in this class.
+"
+"""Every time I try to start a conversation, it doesn't flow smoothly; I must be socially awkward and unlikeable.""
+"
+"""The last time I tried to play soccer, I missed the goal; clearly, I have no athletic talent whatsoever.""
+"
+"""Whenever someone gives me feedback, it's always negative; there's nothing good about what I do or who I am.""
+"
+"""If any of my friends are too busy to hang out with me, they probably don't really enjoy my company anyway.""
+"
+"""When someone criticizes a small aspect of my work, they're basically saying that all of my efforts are worthless.""
+"
+"I missed one deadline; I'm a total failure at everything I do.
+"
+"My painting didn't get any compliments; nobody likes my art at all.
+"
+"""Every time I try to network, it feels awkward; networking is just not something I can succeed in.""
+"
+"""The last time I tried to learn a new skill, it was hard; clearly, learning anything new is impossible for me.""
+"
+"""Each time my suggestion gets overlooked at work, it confirms that none of my ideas are ever good enough.""
+"
+"My friend didn't immediately respond to my text; they must be upset with me.
+"
+"I tried a new sport and wasn't good at it right away; I'll never be athletic.
+"
+"""Whenever my suggestion is overlooked, it's because all of my ideas are bad.""
+"
+"""The last time I cooked, the meal was just okay; clearly, I can't cook well at all.""
+"
+"""Each time someone looks away while talking to me, it means they're bored by everything about me.""
+"
+"""If any of my social media posts don't get many likes, then nobody cares about what's happening in my life.""
+"
+"""When people criticize a part of my project, it feels like they hate the entire thing.""
+"
+"My project didn't get immediate approval; it's probably a complete failure and not worth pursuing.
+"
+"""I tried to learn a new language, but it was challenging at first; I must be terrible at languages.""
+"
+"No one responded to my presentation with applause; they must have all found it uninteresting and dull.
+"
+"""Every time I try to organize something, there's always an issue; I must be really bad at planning events.""
+"
+"""The last time I attempted to play soccer, I missed the goal; clearly, sports are just not for me.""
+"
+"""If any of my colleagues don't immediately agree with my ideas during a meeting, then all of my contributions must be useless.""
+"
+"No one commented on my new haircut; it looks terrible and they're just too polite to say it.
+"
+"""The last time I tried a diet, it didn't work out; diets are pointless for me and always will be.""
+"
+"""Each time I've tried dating recently, it hasn't worked out; maybe love just isn't meant for people like me.""
+"
+"""If any of my suggestions at work are not implemented immediately, then none of them are good enough and never will be.""
+"
+"I missed one deadline; I'm doomed to be a failure at everything I try.
+"
+"My team didn't win today; it's definitely because I'm bad luck for everyone around me.
+"
+"I forgot my friend's birthday; I must be the worst person in the world.
+"
+"No one replied to my message within two hours; they all must find me boring and not worth their time.
+"
+"""Every time I try to play an instrument, it sounds off; clearly, music is just something that's not in my genes.""
+"
+"""Whenever someone doesn't immediately accept my help, they're probably thinking that I'm incompetent or unhelpful.""
+"
+"""The last time I tried to give a speech, people looked disinterested; public speaking is obviously something that's beyond my abilities forever.""
+"
+"My friend hasn't texted me back in hours; they must not want to be friends anymore.
+"
+"I made a mistake on my math homework; I'm obviously terrible at math and will fail the course.
+"
+"""The last time I tried to play basketball, I couldn't make a single shot; clearly, I'm no good at any sports.""
+"
+"I didn't get the first job I applied for; I'm clearly not cut out for this industry.
+"
+"I tried to learn a new dance and it was difficult; I'll never be good at dancing.
+"
+"No one responded to my comment in the meeting; my input must not matter to anyone here.
+"
+"""Every time I try to grow herbs, they die; I shouldn't bother trying to garden ever again.""
+"
+"""Whenever someone criticizes my taste in music, it means all of my choices are bad.""
+"
+"""The last time I attempted a home repair, it didnâ€™t go well; Iâ€™m useless at fixing things around the house.""
+"
+"""Each time my child is reluctant to do homework, it shows that they will always struggle with schoolwork.""
+"
+"I didn't get the last promotion I applied for; I'll never advance in my career.
+"
+"I tried to make a soufflÃ© and it collapsed; I'm hopeless in the kitchen and should stop trying to cook anything complicated.
+"
+"""Every time I suggest an idea at work, it gets shot down; my colleagues must think all of my ideas are terrible.""
+"
+"No one texted me back within a few hours; they must all be ignoring me on purpose because they find me annoying.
+"
+"""The last time I went jogging, I had to stop and walk; clearly, I'm not cut out for any kind of physical activity.""
+"
+"""Whenever someone criticizes even a small part of my project, it feels like they're saying that everything about what I do is wrong.""
+"
+"My child was reprimanded at school today; this means they're always going to have behavioral problems and it's all my fault as a parent.
+"
+"""Each time there's silence after one of my comments during dinner, it confirms that everyone finds what I say uninteresting or irrelevant.""
+"
+"I didn't get the first scholarship I applied for; I'll never be able to afford college.
+"
+"My houseplant isn't thriving like my friend's; I must have a black thumb.
+"
+"I missed one workout this week; my whole fitness routine is ruined.
+"
+"No one replied to my text for several hours; it's clear that nobody wants to communicate with me.
+"
+"""Whenever someone doesn't immediately return my smile, they must dislike me personally.""
+"
+"""When people give me feedback on my art, even if it's positive overall but includes constructive criticism, it feels like they're saying all of my art is terrible and unlikable.""
+"
+"I didn't get the job after my third interview; I'm clearly not cut out for any professional work.
+"
+"My neighbor didn't return my hello today; they must find me annoying and want nothing to do with me.
+"
+"I tried a new fitness app and found it confusing; I'll never be able to use technology properly.
+"
+"""Every time I try to meditate, I get distracted; clearly, mindfulness is just not something that's possible for me.""
+"
+"""Whenever someone critiques my presentation skills, even constructively, it means that I am a terrible communicator overall.""
+"
+"""If any of my attempts at gardening don't result in perfect plants, then obviously I shouldn't bother trying to garden ever again.""
+"
+"""When people donâ€™t immediately respond positively to my ideas at work, it confirms that all of them are unoriginal and uninspired.""
+"
+"My neighbor didn't return my hello today; they must find me annoying and want nothing to do with me.
+"
+"I tried a new fitness app and found it confusing; I'll never be able to use technology properly.
+"
+"""Every time I try to meditate, I get distracted; clearly, mindfulness is just not something that's possible for me.""
+"
+"""Whenever someone critiques my presentation skills, even constructively, it means that I am a terrible communicator overall.""
+"
+"""If any of my attempts at gardening don't result in perfect plants, then obviously I shouldn't bother trying to garden ever again.""
+"
+"""When people donâ€™t immediately respond positively to my ideas at work, it confirms that all of them are unoriginal and uninspired.""
+"
+"No one laughed at my comment in the meeting today; they must all think I'm not witty or smart.
+"
+"""Every time I try to organize my desk, it gets messy again quickly; organizing is just something that isn't meant for me.""
+"
+"""Whenever someone doesn't immediately understand my point, it means all of my explanations are always unclear and unhelpful.""
+"
+"""The last time I tried a new sport, I wasn't very good at it right away; clearly, athletics are just not for me.""
+"
+"""Each time someone chooses another person's suggestion over mine, it feels like none of my suggestions will ever be good enough.""
+"
+"I missed one deadline at work; I'm going to lose my job.
+"
+"My friend didn't like the gift I gave them; I always choose the worst presents.
+"
+"I forgot to call my sister back; she must think I don't care about her at all.
+"
+"No one noticed the new watch I was wearing; they probably think it's ugly or that I have bad taste.
+"
+"""Whenever someone doesn't immediately laugh at my story, it means they find me completely uninteresting.""
+"
+"""The last time I tried to fix something in my house, it broke again soon after; obviously, DIY repairs are beyond my capabilities forever.""
+"
+"""Each time there's a typo in an email from me, everyone must think that all of my writing is sloppy and unprofessional.""
+"
