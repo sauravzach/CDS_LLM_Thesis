@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T17:42:41.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KTl-o95ppuHJhRdIRROw" version="24.3.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-05T18:27:08.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FqVSRzJMA1Al0cM0oIr4" version="24.3.1" type="device">
   <diagram name="Page-1" id="GigK-Gdr3kwYmBsGaX3G">
-    <mxGraphModel dx="1628" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,22 +53,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZbn-G5UG1afDBGGb_qp-24" value="Use BERTopic to cluster embeddings" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NZbn-G5UG1afDBGGb_qp-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZbn-G5UG1afDBGGb_qp-26" target="NZbn-G5UG1afDBGGb_qp-34">
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZbn-G5UG1afDBGGb_qp-26" target="NZbn-G5UG1afDBGGb_qp-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZbn-G5UG1afDBGGb_qp-26" value="Use Cosine Similarity to remove Similar sentences from clusters." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="580" width="140" height="60" as="geometry" />
+          <mxGeometry x="930" y="430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NZbn-G5UG1afDBGGb_qp-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZbn-G5UG1afDBGGb_qp-31" target="NZbn-G5UG1afDBGGb_qp-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NZbn-G5UG1afDBGGb_qp-31" value="Create Embeddings of each Sentence using Sentence Transformers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NZbn-G5UG1afDBGGb_qp-34" value="Verify final dataset of Sentence Corpus with human verification" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-34" value="Human Verification of misclassified Data points" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZbn-G5UG1afDBGGb_qp-39" target="NZbn-G5UG1afDBGGb_qp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-39" value="Train Supervised model on Expert Dataset of annotated CDS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NZbn-G5UG1afDBGGb_qp-40" target="NZbn-G5UG1afDBGGb_qp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NZbn-G5UG1afDBGGb_qp-40" value="Use Trained model to verify Synthetic Dataset" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
